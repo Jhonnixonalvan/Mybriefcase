@@ -451,6 +451,8 @@ main {
     .circle {
         width: 400px;
         height: 400px;
+        margin-left: auto;
+        margin-right: auto;
     }
     .circle .circle_img {
         width: 300px;
@@ -461,6 +463,8 @@ main {
         width: 90%;
         height: 135px;
         margin-top: -30px;
+        margin-left: auto;
+        margin-right: auto;
     }
     .line_blk1 {
         width: 130px;
